@@ -1,0 +1,5 @@
+name: Jailer
+
+director: Nelson
+
+releasing:2026
